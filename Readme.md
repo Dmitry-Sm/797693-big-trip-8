@@ -1,7 +1,7 @@
 # Личный проект «Большое путешествие» [![Build status][travis-image]][travis-url]
 
 * Студент: [Дмитрий Смирнов](https://up.htmlacademy.ru/ecmascript/8/user/797693).
-* Наставник: `Неизвестно`.
+* Наставник: `Никто`.
 
 ---
 
